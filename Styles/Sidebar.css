@@ -1,0 +1,7 @@
+.sidebar{
+    background-color: yellow;
+    position: fixed;
+    top: 55px; /* from header css*/
+    left: 0px;
+    bottom: 0px;
+}
