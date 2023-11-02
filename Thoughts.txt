@@ -1,0 +1,22 @@
+Oct 29 End of Day Update
+- Suprising how quickly it is to make formats for something like YT. I haven't tried other websites but I can visualize how they are done thanks to the video course
+- I am also now keenly aware of formatting things and when things are inconsistent. For example, when things are 1 line or 2 lines and how that pushes other things
+- For actually programming, 
+   - I need to figure out how to go to end of line (ctrl ->, shift ->, ctrl shfit -> and many other things with ->, space and tab don't work)
+   - It is getting very hard to track the structure solely on the indents and where the begin and end elements are. I assume for actual youtube, this is done loaded in from server with video info but it is quite confusing now. I'm also sure other parts of YT like header and side bar would also be confusing so something to think about
+   - I am already curious about how things like the video info are extracted (assuming JavaScript) and want to start with that but must get basic css and html down first
+   - I am wondering how every thing is able to resize correctly and if any programming logic is needed based on page size
+   - Styles getting stupidly long, hopefully the course transfers it to a folder soon
+      - I am not too keen on going forward and doing this to avoid extra work if there are better practices that he will teach. I have a bad habit of running forward and then getting stuck in habit of bad practices
+      - I am also curious as to why divs and other attributes (I think is the right word???) are not separated in style sheet as that might make things easier. I can see moving things by section to folders but being able to see what are divs and what are paragraphs or images might be useful
+   - The other thought is how to make the tuner as that will be all programming which is not markup/style related
+
+   Oct 30
+   -  Why must comments be different in HTML vs CSS.... <!-- HTML --> */ CSS *?/
+   -  Interesting how the course id not use buttons for the icons asthey are clickable elements. I'm wondering if there is a better way to do it with another function
+   -  Also with buttons, I'm wondering if there is n easier way to add cursor: pointer and other effects with the cursor and click (not sure of all terminology yet) to all things with links as otherwise that seems very redundant
+   -  Sidebar also coming along and I can visualize some good ways to get some sites for example as a personal website or something for a band page for example
+
+   Oct 31
+   -  Interesting position relative and absolute and how they must be used together. Took a while to figure out, wondering what default position is and how to check defaults of Styles
+   
